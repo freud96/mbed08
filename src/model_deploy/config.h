@@ -30,7 +30,7 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "SQUARE:\n\r"
+        "LINE:\n\r"
         "* * * * * * * * * * \n\r"
         };
 };
